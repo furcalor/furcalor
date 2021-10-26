@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @furcalor
-- 👀 I’m interested in crypto and things
+- 👀 I’m interested in crypto, cryptograhpy, hacking, 3D Printing, SDR, computers, etc etc etc.
 - 📫 Owner and operator of solopools.net
 
 <!---
