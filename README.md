@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @furcalor
-- 👀 I’m interested in crypto, cryptograhpy, hacking, 3D Printing, SDR, computers, etc etc etc.
+- 👀 I’m interested in crypto, cryptography, hacking, 3D Printing, SDR, computers, etc etc etc.
 - 📫 Sys admin for mining4people
 - 🥰 I'm looking for: ~~Love~~, stuff
 <!---
