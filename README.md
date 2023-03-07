@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @furcalor
 - 👀 I’m interested in crypto, cryptograhpy, hacking, 3D Printing, SDR, computers, etc etc etc.
-- 📫 Owner and operator of solopools.net
+- 📫 Sys admin for mining4people
 - 🥰 I'm looking for: ~~Love~~, stuff
 <!---
 furcalor/furcalor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
